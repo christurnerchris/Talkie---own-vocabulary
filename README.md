@@ -2,7 +2,10 @@
 
 # [Talkie](https://github.com/ArminJo/Talkie)
 Speech library for Arduino
-
+# 
+TO MAKE YOUR OWN SOUNDS USNG THE PYTHON PROGRAMME YOU NEED TO USE AN OLD VEERSION OF PYTHON FROM AROUND 2020 (EG THE 32BIT 3.7.6)
+AND INSTALL EQUALLY OLD VEERSION OF SCIPY (1.2.2 32BIT) (USE PIP IN CMD)
+#
 [![Badge License: GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg)](https://www.gnu.org/licenses/gpl-3.0)
  &nbsp; &nbsp; 
 [![Badge Version](https://img.shields.io/github/v/release/ArminJo/Talkie?include_prereleases&color=yellow&logo=DocuSign&logoColor=white)](https://github.com/ArminJo/Talkie/releases/latest)
